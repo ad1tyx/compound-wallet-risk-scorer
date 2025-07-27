@@ -1,5 +1,3 @@
-Certainly! Here's a polished and well-structured explanation you can include in your project folder (e.g., as a `README.md` or `EXPLANATION.txt`) or directly in your assignment submission. It clearly outlines your approach, rationale, and methodology in a professional tone:
-
 # Wallet Risk Scoring: Approach and Explanation
 
 ## 1. Data Collection Method
